@@ -1,4 +1,4 @@
-study-redmine-postgresql
+trial-redmine-postgresql
 ========================
 
 ## 参考
